@@ -1,4 +1,5 @@
 FROM centos:7.4.1708
+MAINTAINER koori69
 
 ADD turnserver-4.5.0.7.zip /turnserver/turnserver-4.5.0.7.zip
 ADD turnserver.sh /turnserver.sh
