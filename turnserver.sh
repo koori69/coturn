@@ -7,12 +7,12 @@ fi
 
 if [ -z $REALM ]
 then
-    REALM=inovance.com
+    REALM=koori69
 fi
 
 if [ -z $USER ]
 then
-    USER=inosa:inosa1234
+    USER=koori69:koori69
 fi
 
 
